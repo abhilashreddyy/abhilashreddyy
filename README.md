@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **abhilashreddyy/abhilashreddyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -95,9 +94,9 @@ Here are some ideas to get you started:
 <h3 align="center">Want to connect?</h3>
 <p align="center">
   <a href="https://abhilashreddyy.github.io/">
-    <img align="center" alt="Portfolio" width="20px" src="https://static.thenounproject.com/png/1378900-200.png" title ="Personal Website" />
+    <img align="center" alt="Portfolio" width="50px" src="https://cdn-icons-png.flaticon.com/512/216/216221.png" title ="Personal Website" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/yabhilashreddy/">
-    <img align="center" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" title ="Linkdin"/>
+    <img align="center" alt="Linkedin" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" title ="Linkdin"/>
   </a>&nbsp;
 </p>
