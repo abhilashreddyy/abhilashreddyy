@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     function repeat() {eat();sleep();code();repeat()}<br />
-    doing this since 2015
+    since 2015
   </samp>
   <br/><br/>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" height="300">
