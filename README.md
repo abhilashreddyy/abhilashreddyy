@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Want to connect?</h3>
 <p align="center">
-  <a href="https://abhilashreddyy.github.io/profile/">
+  <a href="http://abhilashreddy-mp6ct.ondigitalocean.app">
     <img align="center" alt="Portfolio" width="50px" src="https://cdn-icons-png.flaticon.com/512/216/216221.png" title ="Personal Website" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/yabhilashreddy/">
