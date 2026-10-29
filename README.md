@@ -74,6 +74,14 @@ Here are some ideas to get you started:
 
 <br />
 
+<h3 align="center">Portfolio</h3>
+<p align="center">
+  <a href="https://abhilashreddy.vercel.app"><b>abhilashreddy.vercel.app</b></a><br/>
+  Experience, projects and resume &nbsp;·&nbsp; <a href="https://github.com/abhilashreddyy/portfolio">source</a>
+</p>
+
+<br />
+
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
 
@@ -93,7 +101,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Want to connect?</h3>
 <p align="center">
-  <a href="http://abhilashreddy-mp6ct.ondigitalocean.app">
+  <a href="https://abhilashreddy.vercel.app">
     <img align="center" alt="Portfolio" width="50px" src="https://cdn-icons-png.flaticon.com/512/216/216221.png" title ="Personal Website" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/yabhilashreddy/">
