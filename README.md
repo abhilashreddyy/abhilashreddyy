@@ -1,6 +1,6 @@
 ## Hi, I'm Abhilash 👋
 
-**Backend & ML Engineer** · 5+ years · San Jose, CA
+**Backend & ML Engineer** · 5+ years
 
 I build backend and LLM systems that hold up in production: distributed services on AWS, agentic pipelines with strict data contracts, and the latency and cost work that makes them affordable to run.
 
